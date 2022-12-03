@@ -1,2 +1,2 @@
 # IES-FinalProjectByGroup3
-Open the Contractmanager folder to find the project files
+Open the ContractManager folder to find the project files
